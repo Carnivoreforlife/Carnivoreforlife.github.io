@@ -1,0 +1,21 @@
+body {
+	background-color: #ffc1fb;
+}
+
+img {
+	display: block;
+	margin: auto;
+	margin-top: 50px;
+}
+
+h1 {font-family: 'Lobster', cursive;
+color:blue;
+
+}
+
+p {font-size: 25px;
+
+}
+
+<p>Gissa vem som är min favorit av lejon, tiger och leopard!</p>
+<input type="text" id="gissning"/>
